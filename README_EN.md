@@ -198,7 +198,5 @@ Faculty of Law and Juvenile Justice, Criminal Law
 
 **Open to interesting opportunities and challenging problems!**
 
-*Looking for: Backend/Fullstack Developer position*  
-*Expected salary: from 250,000 ₽ net*
 
 </div>
